@@ -1,1 +1,1 @@
-let classic : ON
+let classic : on
